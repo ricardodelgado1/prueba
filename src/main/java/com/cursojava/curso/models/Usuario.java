@@ -34,6 +34,8 @@ public class Usuario {
 
     private String ciudad;
 
+    private String edad;
+
 
 
 }
